@@ -11,3 +11,5 @@ print(t)
 
 with open('texto_mod.txt', 'a') as p_arquivo:
     p_arquivo.write(t)
+
+print(t)
